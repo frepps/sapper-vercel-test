@@ -35,7 +35,7 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>No kids!</h1>
+<h1>No kids! Dev</h1>
 
 <figure>
 
